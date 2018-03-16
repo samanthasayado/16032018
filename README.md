@@ -1,2 +1,2 @@
-# 16032018
-Seminario Gráfica Computacional I 2018 - Clase 1
+# dgp502
+Seminario Gráfica Computacional I 2018, Primer Semestre → Clase 1 → Viernes 16 de marzo
